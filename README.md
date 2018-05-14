@@ -6,5 +6,6 @@
 
 - `guzzlehttp/guzzle` 处理 HTTP 请求和响应。
 - `symfony/routing` 路由器。
+- `ezyang/htmlpurifier` 过滤 HTML，防止 XSS 攻击。
 
 组件是打包的代码，用于帮你解决 PHP 应用的某个具体问题。
